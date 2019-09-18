@@ -99,7 +99,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4044211E22E9C12F00C11283 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Sources/Info.plist; sourceTree = "<group>"; };
+		4044211E22E9C12F00C11283 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4044213822E9C97900C11283 /* CRuntime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CRuntime.h; sourceTree = "<group>"; };
 		40EB925722EAAEEE000A52A2 /* CRuntime.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CRuntime.m; sourceTree = "<group>"; };
 		OBJ_11 /* DefaultValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefaultValue.swift; sourceTree = "<group>"; };
